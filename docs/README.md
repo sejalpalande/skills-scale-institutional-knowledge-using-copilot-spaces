@@ -1,7 +1,9 @@
 # OctoAcme Project Management Docs
 
 ## Overview
-OctoAcme follows a structured, iterative project management approach focused on customer value, clear ownership, and data-informed decisions. Our processes are designed to scale from small feature work to major cross-functional initiatives.
+OctoAcme follows a structured, iterative project management approach focused on customer value, clear ownership, and data-informed decisions. The organization uses a lightweight lifecycle that moves from validating a business need through planning, execution, release, and retrospection. This helps teams align on the right problem, work in visible increments, and learn quickly from delivery outcomes.
+
+At a high level, OctoAcme’s process emphasizes clear role ownership, regular communication, measurable outcomes, and disciplined quality gates. Teams define success metrics early, break work into shippable units with explicit acceptance criteria, manage dependencies and risks throughout delivery, and rely on retrospectives to convert lessons learned into improvements. The result is a repeatable project rhythm that supports both operational clarity and continuous improvement.
 
 ## Core Principles
 - Customer-first delivery
